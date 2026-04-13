@@ -1,0 +1,10 @@
+h1 {
+  color: blue;            /* Changes text color to blue */
+  text-align: center;     /* Centers the heading */
+  font-family: Arial;     /* Sets the font to Arial */
+}
+
+p {
+  font-size: 18px;        /* Increases text size */
+  line-height: 1.6;       /* Adds space between lines for readability */
+}
